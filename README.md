@@ -1,4 +1,4 @@
-# 📊 Descriptive Statistics Assignment - Day 8
+# 📊 Descriptive Statistics Wine Quality
 
 ## 📝 Description
 This Jupyter Notebook contains an exploratory data analysis and descriptive statistics implementation using Python libraries such as `pandas`, `matplotlib`, and `seaborn`. The main focus is to understand, calculate, and visualize key statistical measures including:
