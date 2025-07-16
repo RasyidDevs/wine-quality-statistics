@@ -5,20 +5,12 @@ This Jupyter Notebook contains an exploratory data analysis and descriptive stat
 - Mean, Median, and Mode
 - Variance and Standard Deviation
 - Skewness and Kurtosis
-- Data distribution visualizations (Histogram, Boxplot, etc.)
+- Data distribution visualizations 
 
-## 📚 Notebook Structure
-The notebook includes:
-- **29 markdown cells** providing theoretical explanations and result interpretations.
-- **55 code cells** covering:
-  - Data loading and preprocessing
-  - Descriptive statistics calculations
-  - Data visualization with various plots
 
 ## 🛠️ Tools & Libraries Used
 - Python 3
 - Pandas
-- NumPy
 - Matplotlib
 - Seaborn
 
@@ -34,7 +26,7 @@ The notebook includes:
 4. Run the cells from top to bottom to follow the analysis flow.
 
 ## 📁 Dataset
-The dataset is either directly included or loaded within the notebook. No external file is required unless specified inside the code.
+The analysis in this notebook uses the `winequality-red.csv` dataset, which contains physicochemical and quality-related data of red wine samples. Make sure the CSV file is placed in the same directory as the notebook before running.
 
-## ✍️ Author
-This notebook was created as part of a learning exercise on descriptive statistics.
+## 🤝 Further Collaboration
+For questions or collaboration opportunities, feel free to contact: **rasyidbomantoro@gmail.com*
